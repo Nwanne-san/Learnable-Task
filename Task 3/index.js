@@ -13,7 +13,7 @@ price_3 = 220000;
 
 //Welcome user and ask for their name
 var user_name;
-user_name = prompt("Good day, \nWelcome to Odinma's simple e-commerce app! \nWhat is your name");
+user_name = prompt("WELCOME TO NWANNE'S ONLINE STORE!! \nWhat is your name");
 
 //If user provides their name then use it throughout the app else recognise them as a guest
 
